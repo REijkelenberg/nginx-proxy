@@ -1,6 +1,11 @@
 ![latest 0.7.0](https://img.shields.io/badge/latest-0.7.0-green.svg?style=flat)
 ![nginx mainline](https://img.shields.io/badge/nginx-mainline-brightgreen.svg) ![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)
 
+# This is a fork
+This repository is forked from  jwilder/nginx-proxy. The Docker image created by this fork uses the latest version of nginx mainline.
+
+# Description
+
 nginx-proxy sets up a container running nginx and [docker-gen][1].  docker-gen generates reverse proxy configs for nginx and reloads nginx when containers are started and stopped.
 
 See [Automated Nginx Reverse Proxy for Docker][2] for why you might want to use this.
