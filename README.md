@@ -4,6 +4,10 @@
 # This is a fork
 This repository is forked from  jwilder/nginx-proxy. The Docker image created by this fork uses the latest version of nginx mainline.
 
+Available tags:
+* :latest - Uses nginx:mainline as base
+* :alpine - Uses nginx:mainline-alpine as base
+
 # Description
 
 nginx-proxy sets up a container running nginx and [docker-gen][1].  docker-gen generates reverse proxy configs for nginx and reloads nginx when containers are started and stopped.
