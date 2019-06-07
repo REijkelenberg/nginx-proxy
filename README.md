@@ -2,7 +2,7 @@
 ![nginx mainline](https://img.shields.io/badge/nginx-mainline-brightgreen.svg) ![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)
 
 # This is a fork
-This repository is forked from  reijkelenberg/nginx-proxy. The Docker image created by this fork uses the latest version of nginx mainline.
+This repository is forked from  jwilder/nginx-proxy. The Docker image created by this fork uses the latest version of nginx mainline.
 
 Available tags:
 * :latest - Uses nginx:mainline as base
