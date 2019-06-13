@@ -1,5 +1,7 @@
 ![latest 0.7.0](https://img.shields.io/badge/latest-0.7.0-green.svg?style=flat)
-![nginx mainline](https://img.shields.io/badge/nginx-mainline-brightgreen.svg) ![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)
+![nginx mainline](https://img.shields.io/badge/nginx-mainline-brightgreen.svg)
+![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/reijkelenberg/nginx-proxy.svg)
+![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)
 
 # This is a fork
 This repository is forked from  jwilder/nginx-proxy. The Docker image created by this fork uses the latest version of nginx mainline.
