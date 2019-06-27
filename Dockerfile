@@ -1,5 +1,5 @@
 FROM nginx:mainline
-LABEL maintainer="Jason Wilder mail@jasonwilder.com"
+MAINTAINER REijkelenberg <https://github.com/REijkelenberg>
 
 # Install wget and install/updates certificates
 RUN apt-get update \
