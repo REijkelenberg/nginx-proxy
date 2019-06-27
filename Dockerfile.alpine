@@ -1,5 +1,5 @@
 FROM nginx:mainline-alpine
-LABEL maintainer="Jason Wilder mail@jasonwilder.com"
+MAINTAINER REijkelenberg <https://github.com/REijkelenberg>
 
 # Install wget and install/updates certificates
 RUN apk add --no-cache --virtual .run-deps \
